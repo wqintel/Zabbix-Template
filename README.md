@@ -9,3 +9,10 @@ https://github.com/vicendominguez/nginx-zabbix-template
 
 mongodb-zabbix-templates
 https://github.com/petrushinvs/mongodb-zabbix-templates
+cpan Config::AutoConf Path::Tiny
+sudo cpan List::Util
+sudo cpan MongoDB
+sudo cpan Zabbix::Sender
+sudo cpan Getopt::Long
+
+
