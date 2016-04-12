@@ -15,4 +15,6 @@ sudo cpan MongoDB
 sudo cpan Zabbix::Sender
 sudo cpan Getopt::Long
 
+oracle-zabbix
+https://github.com/crmall/oracle-zabbix
 
