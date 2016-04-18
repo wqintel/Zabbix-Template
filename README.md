@@ -18,3 +18,5 @@ sudo cpan Getopt::Long
 zabbix-oracle
 https://github.com/bicofino/Pyora
 
+zookeeper-zabbix-template
+https://github.com/zhujinhe/zookeeper-zabbix-template
